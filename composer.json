@@ -1,0 +1,13 @@
+{
+    "name": "egorov/cats",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Egorov\\Cats\\": "vendor/",
+            "Egorov\\Cats\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
